@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimekeeperAPI", "TimekeeperAPI\TimekeeperAPI.csproj", "{54DCE7BD-B0C1-4851-BB25-8E068CBC7F1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimekeeperAPI.Business", "TimekeeperAPI.Business\TimekeeperAPI.Business.csproj", "{2A898868-80F4-413F-874C-74D6B2C2140E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimekeeperAPI.Common", "TimekeeperAPI.Common\TimekeeperAPI.Common.csproj", "{DA3DAAEC-B9A4-4A91-AF05-D2595D341E60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimekeeperAPI.Data", "TimekeeperAPI.Data\TimekeeperAPI.Data.csproj", "{8F7C26C2-0DBA-4E1A-AE13-BB6924C801BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54DCE7BD-B0C1-4851-BB25-8E068CBC7F1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54DCE7BD-B0C1-4851-BB25-8E068CBC7F1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54DCE7BD-B0C1-4851-BB25-8E068CBC7F1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54DCE7BD-B0C1-4851-BB25-8E068CBC7F1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A898868-80F4-413F-874C-74D6B2C2140E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A898868-80F4-413F-874C-74D6B2C2140E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A898868-80F4-413F-874C-74D6B2C2140E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A898868-80F4-413F-874C-74D6B2C2140E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA3DAAEC-B9A4-4A91-AF05-D2595D341E60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA3DAAEC-B9A4-4A91-AF05-D2595D341E60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA3DAAEC-B9A4-4A91-AF05-D2595D341E60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA3DAAEC-B9A4-4A91-AF05-D2595D341E60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F7C26C2-0DBA-4E1A-AE13-BB6924C801BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F7C26C2-0DBA-4E1A-AE13-BB6924C801BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F7C26C2-0DBA-4E1A-AE13-BB6924C801BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F7C26C2-0DBA-4E1A-AE13-BB6924C801BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8246D69-C2F2-498F-AECF-F897D38DADD5}
+	EndGlobalSection
+EndGlobal

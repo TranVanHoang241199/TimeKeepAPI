@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TimekeeperAPI</name>
+    </assembly>
+    <members>
+        <member name="T:TimekeeperAPI.AutoMapper.AutoMapperConfig">
+            <summary>
+            lớp tạo ra để tự động map giữa hai lớp có cùng thuộc tính
+            </summary>
+        </member>
+        <member name="M:TimekeeperAPI.AutoMapper.AutoMapperConfig.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:TimekeeperAPI.Controllers.Auth.AuthController">
+            <summary>
+            controller phân quyền
+            </summary>
+        </member>
+        <member name="M:TimekeeperAPI.Controllers.Auth.AuthController.Authenticate(TimekeeperAPI.Business.Services.Auth.AuthUser)">
+            <summary>
+            đăng nhập
+            </summary>
+            <param name="param">Nhập tài khoản, mật khẩu User</param>
+            <response code="200">Thành công</response>
+        </member>
+        <member name="T:TimekeeperAPI.Controllers.User.UserAdminController">
+            <summary>
+            controller admin
+            </summary>
+        </member>
+        <member name="M:TimekeeperAPI.Controllers.User.UserAdminController.GetFilter(TimekeeperAPI.Business.Services.User.UserQueryModel)">
+            <summary>
+            lấy tất của các User
+            </summary>
+            <param name="param">nhập thông tin cần tìm kiếm</param>
+            <response code="200">Thành công</response>
+        </member>
+        <member name="M:TimekeeperAPI.Controllers.User.UserAdminController.GetUser(System.Guid)">
+            <summary>
+            lấy một user cụ thể
+            </summary>
+            <param name="id">nhập id user</param>
+            <response code="200">Thành công</response>
+        </member>
+        <member name="M:TimekeeperAPI.Controllers.User.UserAdminController.CreateUser(TimekeeperAPI.Business.Services.User.UserCreateUpdateModel)">
+            <summary>
+            tạo mới một user
+            </summary>
+            <param name="model">Nhập thông tin cần tạo</param>
+            <response code="200">Thành công</response>
+        </member>
+        <member name="M:TimekeeperAPI.Controllers.User.UserAdminController.UpdateUser(System.Guid,TimekeeperAPI.Business.Services.User.UserCreateUpdateModel)">
+            <summary>
+            chỉnh sửa một user
+            </summary>
+            <param name="id">nhập id user</param>
+            <param name="model">Enter information to edit</param>
+            <response code="200">Thành công</response>
+        </member>
+        <member name="M:TimekeeperAPI.Controllers.User.UserAdminController.DeleteUser(System.Guid)">
+            <summary>
+            xóa một User
+            </summary>
+            <param name="id">nhập id user</param>
+            <response code="200">Thành công</response>
+        </member>
+        <member name="T:TimekeeperAPI.Controllers.User.UserController">
+            <summary>
+            controller user
+            </summary>
+        </member>
+        <member name="M:TimekeeperAPI.Controllers.User.UserController.GetTimeScheets(System.Guid)">
+            <summary>
+            hiển thị tất cả timeScheet + task
+            </summary>
+            <param name="id">Nhập id User.</param>
+            <response code="200">Thành công</response>
+        </member>
+        <member name="M:TimekeeperAPI.Controllers.User.UserController.GetTimeScheet(System.Guid)">
+            <summary>
+            Hiển thị một timescheet cụ thể + task
+            </summary>
+            <param name="id">Nhập id TimeScheet</param>
+            <response code="200">Thành công</response>
+        </member>
+        <member name="M:TimekeeperAPI.Controllers.User.UserController.CheckIn(System.Guid,System.Collections.Generic.IEnumerable{TimekeeperAPI.Business.Services.User.TaskCreateModel})">
+            <summary>
+            checkin
+            </summary>
+            <param name="id">Nhập id User</param>
+            <param name="model">nhập danh sách task mới</param>
+            <response code="200">Thành công</response>
+        </member>
+        <member name="M:TimekeeperAPI.Controllers.User.UserController.CheckOut(System.Guid,System.Collections.Generic.IEnumerable{TimekeeperAPI.Business.Services.User.TaskUpdateModel})">
+            <summary>
+            checkout
+            </summary>
+            <param name="id">Nhập id timeCheet</param>
+            <param name="model">xét duyệt task</param>
+            <response code="200">Thành công</response>
+        </member>
+        <member name="M:TimekeeperAPI.Controllers.User.UserController.DeleteTask(System.Guid)">
+            <summary>
+            xóa một task
+            </summary>
+            <param name="id">Nhập id task</param>
+            <response code="200">Thành công</response>
+        </member>
+    </members>
+</doc>

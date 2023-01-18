@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "d8mmZ45y74kG2mY1kSXuIV18vSuzIP+jh1OBZUTemiZjpZlKTspmwoy7VDxMfLJpQzBbFTevhErDjCW7q4oCWQ==",
+  "success": true,
+  "projectFilePath": "D:\\developer\\C#_dotnet\\API\\timekeepapi\\TimekeeperAPI.Data\\TimekeeperAPI.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vanho\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\vanho\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
+    "C:\\Users\\vanho\\.nuget\\packages\\microsoft.entityframeworkcore\\3.1.22\\microsoft.entityframeworkcore.3.1.22.nupkg.sha512",
+    "C:\\Users\\vanho\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\3.1.22\\microsoft.entityframeworkcore.abstractions.3.1.22.nupkg.sha512",
+    "C:\\Users\\vanho\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\3.1.22\\microsoft.entityframeworkcore.analyzers.3.1.22.nupkg.sha512",
+    "C:\\Users\\vanho\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\3.1.18\\microsoft.entityframeworkcore.relational.3.1.18.nupkg.sha512",
+    "C:\\Users\\vanho\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.22\\microsoft.extensions.caching.abstractions.3.1.22.nupkg.sha512",
+    "C:\\Users\\vanho\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.1.22\\microsoft.extensions.caching.memory.3.1.22.nupkg.sha512",
+    "C:\\Users\\vanho\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.22\\microsoft.extensions.configuration.3.1.22.nupkg.sha512",
+    "C:\\Users\\vanho\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.22\\microsoft.extensions.configuration.abstractions.3.1.22.nupkg.sha512",
+    "C:\\Users\\vanho\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.22\\microsoft.extensions.configuration.binder.3.1.22.nupkg.sha512",
+    "C:\\Users\\vanho\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.22\\microsoft.extensions.dependencyinjection.3.1.22.nupkg.sha512",
+    "C:\\Users\\vanho\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.22\\microsoft.extensions.dependencyinjection.abstractions.3.1.22.nupkg.sha512",
+    "C:\\Users\\vanho\\.nuget\\packages\\microsoft.extensions.logging\\3.1.22\\microsoft.extensions.logging.3.1.22.nupkg.sha512",
+    "C:\\Users\\vanho\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.22\\microsoft.extensions.logging.abstractions.3.1.22.nupkg.sha512",
+    "C:\\Users\\vanho\\.nuget\\packages\\microsoft.extensions.options\\3.1.22\\microsoft.extensions.options.3.1.22.nupkg.sha512",
+    "C:\\Users\\vanho\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.22\\microsoft.extensions.primitives.3.1.22.nupkg.sha512",
+    "C:\\Users\\vanho\\.nuget\\packages\\npgsql\\4.1.9\\npgsql.4.1.9.nupkg.sha512",
+    "C:\\Users\\vanho\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\3.1.18\\npgsql.entityframeworkcore.postgresql.3.1.18.nupkg.sha512",
+    "C:\\Users\\vanho\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512",
+    "C:\\Users\\vanho\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\vanho\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\vanho\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
