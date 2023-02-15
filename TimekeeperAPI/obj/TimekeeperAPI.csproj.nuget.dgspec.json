@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\developer\\C#_dotnet\\API\\timekeepapi\\TimekeeperAPI\\TimekeeperAPI.csproj": {}
+    "D:\\developer\\C#_dotnet\\Projects_DotNet\\TimeKeepAPI\\TimekeeperAPI\\TimekeeperAPI.csproj": {}
   },
   "projects": {
-    "D:\\developer\\C#_dotnet\\API\\timekeepapi\\TimekeeperAPI.Business\\TimekeeperAPI.Business.csproj": {
+    "D:\\developer\\C#_dotnet\\Projects_DotNet\\TimeKeepAPI\\TimekeeperAPI.Business\\TimekeeperAPI.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\developer\\C#_dotnet\\API\\timekeepapi\\TimekeeperAPI.Business\\TimekeeperAPI.Business.csproj",
+        "projectUniqueName": "D:\\developer\\C#_dotnet\\Projects_DotNet\\TimeKeepAPI\\TimekeeperAPI.Business\\TimekeeperAPI.Business.csproj",
         "projectName": "TimekeeperAPI.Business",
-        "projectPath": "D:\\developer\\C#_dotnet\\API\\timekeepapi\\TimekeeperAPI.Business\\TimekeeperAPI.Business.csproj",
+        "projectPath": "D:\\developer\\C#_dotnet\\Projects_DotNet\\TimeKeepAPI\\TimekeeperAPI.Business\\TimekeeperAPI.Business.csproj",
         "packagesPath": "C:\\Users\\vanho\\.nuget\\packages\\",
-        "outputPath": "D:\\developer\\C#_dotnet\\API\\timekeepapi\\TimekeeperAPI.Business\\obj\\",
+        "outputPath": "D:\\developer\\C#_dotnet\\Projects_DotNet\\TimeKeepAPI\\TimekeeperAPI.Business\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\vanho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +32,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\developer\\C#_dotnet\\API\\timekeepapi\\TimekeeperAPI.Common\\TimekeeperAPI.Common.csproj": {
-                "projectPath": "D:\\developer\\C#_dotnet\\API\\timekeepapi\\TimekeeperAPI.Common\\TimekeeperAPI.Common.csproj"
+              "D:\\developer\\C#_dotnet\\Projects_DotNet\\TimeKeepAPI\\TimekeeperAPI.Common\\TimekeeperAPI.Common.csproj": {
+                "projectPath": "D:\\developer\\C#_dotnet\\Projects_DotNet\\TimeKeepAPI\\TimekeeperAPI.Common\\TimekeeperAPI.Common.csproj"
               },
-              "D:\\developer\\C#_dotnet\\API\\timekeepapi\\TimekeeperAPI.Data\\TimekeeperAPI.Data.csproj": {
-                "projectPath": "D:\\developer\\C#_dotnet\\API\\timekeepapi\\TimekeeperAPI.Data\\TimekeeperAPI.Data.csproj"
+              "D:\\developer\\C#_dotnet\\Projects_DotNet\\TimeKeepAPI\\TimekeeperAPI.Data\\TimekeeperAPI.Data.csproj": {
+                "projectPath": "D:\\developer\\C#_dotnet\\Projects_DotNet\\TimeKeepAPI\\TimekeeperAPI.Data\\TimekeeperAPI.Data.csproj"
               }
             }
           }
@@ -79,21 +83,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.415\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\developer\\C#_dotnet\\API\\timekeepapi\\TimekeeperAPI.Common\\TimekeeperAPI.Common.csproj": {
+    "D:\\developer\\C#_dotnet\\Projects_DotNet\\TimeKeepAPI\\TimekeeperAPI.Common\\TimekeeperAPI.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\developer\\C#_dotnet\\API\\timekeepapi\\TimekeeperAPI.Common\\TimekeeperAPI.Common.csproj",
+        "projectUniqueName": "D:\\developer\\C#_dotnet\\Projects_DotNet\\TimeKeepAPI\\TimekeeperAPI.Common\\TimekeeperAPI.Common.csproj",
         "projectName": "TimekeeperAPI.Common",
-        "projectPath": "D:\\developer\\C#_dotnet\\API\\timekeepapi\\TimekeeperAPI.Common\\TimekeeperAPI.Common.csproj",
+        "projectPath": "D:\\developer\\C#_dotnet\\Projects_DotNet\\TimeKeepAPI\\TimekeeperAPI.Common\\TimekeeperAPI.Common.csproj",
         "packagesPath": "C:\\Users\\vanho\\.nuget\\packages\\",
-        "outputPath": "D:\\developer\\C#_dotnet\\API\\timekeepapi\\TimekeeperAPI.Common\\obj\\",
+        "outputPath": "D:\\developer\\C#_dotnet\\Projects_DotNet\\TimeKeepAPI\\TimekeeperAPI.Common\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\vanho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -149,21 +157,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.415\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\developer\\C#_dotnet\\API\\timekeepapi\\TimekeeperAPI.Data\\TimekeeperAPI.Data.csproj": {
+    "D:\\developer\\C#_dotnet\\Projects_DotNet\\TimeKeepAPI\\TimekeeperAPI.Data\\TimekeeperAPI.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\developer\\C#_dotnet\\API\\timekeepapi\\TimekeeperAPI.Data\\TimekeeperAPI.Data.csproj",
+        "projectUniqueName": "D:\\developer\\C#_dotnet\\Projects_DotNet\\TimeKeepAPI\\TimekeeperAPI.Data\\TimekeeperAPI.Data.csproj",
         "projectName": "TimekeeperAPI.Data",
-        "projectPath": "D:\\developer\\C#_dotnet\\API\\timekeepapi\\TimekeeperAPI.Data\\TimekeeperAPI.Data.csproj",
+        "projectPath": "D:\\developer\\C#_dotnet\\Projects_DotNet\\TimeKeepAPI\\TimekeeperAPI.Data\\TimekeeperAPI.Data.csproj",
         "packagesPath": "C:\\Users\\vanho\\.nuget\\packages\\",
-        "outputPath": "D:\\developer\\C#_dotnet\\API\\timekeepapi\\TimekeeperAPI.Data\\obj\\",
+        "outputPath": "D:\\developer\\C#_dotnet\\Projects_DotNet\\TimeKeepAPI\\TimekeeperAPI.Data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\vanho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -213,21 +225,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.415\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\developer\\C#_dotnet\\API\\timekeepapi\\TimekeeperAPI\\TimekeeperAPI.csproj": {
+    "D:\\developer\\C#_dotnet\\Projects_DotNet\\TimeKeepAPI\\TimekeeperAPI\\TimekeeperAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\developer\\C#_dotnet\\API\\timekeepapi\\TimekeeperAPI\\TimekeeperAPI.csproj",
+        "projectUniqueName": "D:\\developer\\C#_dotnet\\Projects_DotNet\\TimeKeepAPI\\TimekeeperAPI\\TimekeeperAPI.csproj",
         "projectName": "TimekeeperAPI",
-        "projectPath": "D:\\developer\\C#_dotnet\\API\\timekeepapi\\TimekeeperAPI\\TimekeeperAPI.csproj",
+        "projectPath": "D:\\developer\\C#_dotnet\\Projects_DotNet\\TimeKeepAPI\\TimekeeperAPI\\TimekeeperAPI.csproj",
         "packagesPath": "C:\\Users\\vanho\\.nuget\\packages\\",
-        "outputPath": "D:\\developer\\C#_dotnet\\API\\timekeepapi\\TimekeeperAPI\\obj\\",
+        "outputPath": "D:\\developer\\C#_dotnet\\Projects_DotNet\\TimeKeepAPI\\TimekeeperAPI\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\vanho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -241,14 +257,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\developer\\C#_dotnet\\API\\timekeepapi\\TimekeeperAPI.Business\\TimekeeperAPI.Business.csproj": {
-                "projectPath": "D:\\developer\\C#_dotnet\\API\\timekeepapi\\TimekeeperAPI.Business\\TimekeeperAPI.Business.csproj"
+              "D:\\developer\\C#_dotnet\\Projects_DotNet\\TimeKeepAPI\\TimekeeperAPI.Business\\TimekeeperAPI.Business.csproj": {
+                "projectPath": "D:\\developer\\C#_dotnet\\Projects_DotNet\\TimeKeepAPI\\TimekeeperAPI.Business\\TimekeeperAPI.Business.csproj"
               },
-              "D:\\developer\\C#_dotnet\\API\\timekeepapi\\TimekeeperAPI.Common\\TimekeeperAPI.Common.csproj": {
-                "projectPath": "D:\\developer\\C#_dotnet\\API\\timekeepapi\\TimekeeperAPI.Common\\TimekeeperAPI.Common.csproj"
+              "D:\\developer\\C#_dotnet\\Projects_DotNet\\TimeKeepAPI\\TimekeeperAPI.Common\\TimekeeperAPI.Common.csproj": {
+                "projectPath": "D:\\developer\\C#_dotnet\\Projects_DotNet\\TimeKeepAPI\\TimekeeperAPI.Common\\TimekeeperAPI.Common.csproj"
               },
-              "D:\\developer\\C#_dotnet\\API\\timekeepapi\\TimekeeperAPI.Data\\TimekeeperAPI.Data.csproj": {
-                "projectPath": "D:\\developer\\C#_dotnet\\API\\timekeepapi\\TimekeeperAPI.Data\\TimekeeperAPI.Data.csproj"
+              "D:\\developer\\C#_dotnet\\Projects_DotNet\\TimeKeepAPI\\TimekeeperAPI.Data\\TimekeeperAPI.Data.csproj": {
+                "projectPath": "D:\\developer\\C#_dotnet\\Projects_DotNet\\TimeKeepAPI\\TimekeeperAPI.Data\\TimekeeperAPI.Data.csproj"
               }
             }
           }
@@ -324,7 +340,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.415\\RuntimeIdentifierGraph.json"
         }
       }
     }

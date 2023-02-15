@@ -759,19 +759,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\vanho\\.nuget\\packages\\": {}
+    "C:\\Users\\vanho\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\developer\\C#_dotnet\\API\\timekeepapi\\TimekeeperAPI.Data\\TimekeeperAPI.Data.csproj",
+      "projectUniqueName": "D:\\developer\\C#_dotnet\\Projects_DotNet\\TimeKeepAPI\\TimekeeperAPI.Data\\TimekeeperAPI.Data.csproj",
       "projectName": "TimekeeperAPI.Data",
-      "projectPath": "D:\\developer\\C#_dotnet\\API\\timekeepapi\\TimekeeperAPI.Data\\TimekeeperAPI.Data.csproj",
+      "projectPath": "D:\\developer\\C#_dotnet\\Projects_DotNet\\TimeKeepAPI\\TimekeeperAPI.Data\\TimekeeperAPI.Data.csproj",
       "packagesPath": "C:\\Users\\vanho\\.nuget\\packages\\",
-      "outputPath": "D:\\developer\\C#_dotnet\\API\\timekeepapi\\TimekeeperAPI.Data\\obj\\",
+      "outputPath": "D:\\developer\\C#_dotnet\\Projects_DotNet\\TimeKeepAPI\\TimekeeperAPI.Data\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\vanho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -821,7 +826,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.415\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -38,7 +38,7 @@ namespace TimekeeperAPI
         {
             services.AddControllers();
 
-            // Swagger
+            #region Swagger
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "TimeKeepAPI", Version = "v1" });
@@ -90,6 +90,8 @@ namespace TimekeeperAPI
                 });
                 c.DocInclusionPredicate((name, api) => true);
             });
+            #endregion Swagger
+
 
             // add autoMapper
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
@@ -104,7 +106,7 @@ namespace TimekeeperAPI
                 options.UseNpgsql(Configuration.GetConnectionString("DefaultConnection"));
             });
 
-            //bearer token
+            #region bearer token
             services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
                 .AddJwtBearer(options =>
                 {
@@ -120,6 +122,7 @@ namespace TimekeeperAPI
                     };
                     services.AddMvc();
                 });
+            #endregion bearer token
 
             // version
             services.AddApiVersioning(config =>
@@ -140,19 +143,23 @@ namespace TimekeeperAPI
                 app.UseDeveloperExceptionPage();
             }
 
+            #region Swagger
             app.UseSwagger();
 
             app.UseSwaggerUI(c =>
             {
                 c.SwaggerEndpoint("/swagger/v1/swagger.json", "TimeKeeperAPI V1");
             });
+            #endregion Swagger
 
             app.UseRouting();
 
+            #region Auth
             //bearer token
             app.UseAuthentication();
 
             app.UseAuthorization();
+            #endregion Auth
 
             app.UseEndpoints(endpoints =>
             {

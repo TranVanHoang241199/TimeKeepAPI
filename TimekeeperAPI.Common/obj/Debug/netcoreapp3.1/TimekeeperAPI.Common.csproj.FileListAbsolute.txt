@@ -76,3 +76,16 @@ D:\developer\C#_dotnet\API\timekeepapi\TimekeeperAPI.Common\obj\Debug\netcoreapp
 D:\developer\C#_dotnet\API\timekeepapi\TimekeeperAPI.Common\obj\Debug\netcoreapp3.1\TimekeeperAPI.Common.dll
 D:\developer\C#_dotnet\API\timekeepapi\TimekeeperAPI.Common\obj\Debug\netcoreapp3.1\TimekeeperAPI.Common.pdb
 D:\developer\C#_dotnet\API\timekeepapi\TimekeeperAPI.Common\obj\Debug\netcoreapp3.1\TimekeeperAPI.Common.genruntimeconfig.cache
+D:\developer\C#_dotnet\Projects_DotNet\TimeKeepAPI\TimekeeperAPI.Common\bin\Debug\netcoreapp3.1\TimekeeperAPI.Common.deps.json
+D:\developer\C#_dotnet\Projects_DotNet\TimeKeepAPI\TimekeeperAPI.Common\bin\Debug\netcoreapp3.1\TimekeeperAPI.Common.runtimeconfig.json
+D:\developer\C#_dotnet\Projects_DotNet\TimeKeepAPI\TimekeeperAPI.Common\bin\Debug\netcoreapp3.1\TimekeeperAPI.Common.runtimeconfig.dev.json
+D:\developer\C#_dotnet\Projects_DotNet\TimeKeepAPI\TimekeeperAPI.Common\bin\Debug\netcoreapp3.1\TimekeeperAPI.Common.dll
+D:\developer\C#_dotnet\Projects_DotNet\TimeKeepAPI\TimekeeperAPI.Common\bin\Debug\netcoreapp3.1\TimekeeperAPI.Common.pdb
+D:\developer\C#_dotnet\Projects_DotNet\TimeKeepAPI\TimekeeperAPI.Common\obj\Debug\netcoreapp3.1\TimekeeperAPI.Common.csproj.AssemblyReference.cache
+D:\developer\C#_dotnet\Projects_DotNet\TimeKeepAPI\TimekeeperAPI.Common\obj\Debug\netcoreapp3.1\TimekeeperAPI.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\developer\C#_dotnet\Projects_DotNet\TimeKeepAPI\TimekeeperAPI.Common\obj\Debug\netcoreapp3.1\TimekeeperAPI.Common.AssemblyInfoInputs.cache
+D:\developer\C#_dotnet\Projects_DotNet\TimeKeepAPI\TimekeeperAPI.Common\obj\Debug\netcoreapp3.1\TimekeeperAPI.Common.AssemblyInfo.cs
+D:\developer\C#_dotnet\Projects_DotNet\TimeKeepAPI\TimekeeperAPI.Common\obj\Debug\netcoreapp3.1\TimekeeperAPI.Common.csproj.CoreCompileInputs.cache
+D:\developer\C#_dotnet\Projects_DotNet\TimeKeepAPI\TimekeeperAPI.Common\obj\Debug\netcoreapp3.1\TimekeeperAPI.Common.dll
+D:\developer\C#_dotnet\Projects_DotNet\TimeKeepAPI\TimekeeperAPI.Common\obj\Debug\netcoreapp3.1\TimekeeperAPI.Common.pdb
+D:\developer\C#_dotnet\Projects_DotNet\TimeKeepAPI\TimekeeperAPI.Common\obj\Debug\netcoreapp3.1\TimekeeperAPI.Common.genruntimeconfig.cache

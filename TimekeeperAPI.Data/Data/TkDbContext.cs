@@ -51,8 +51,7 @@ namespace TimekeeperAPI.Data.Data.DbContexts
                     Password = "1234",
                     LastLogin = DateTime.Now,
                     Role = "admin"
-                }
-                );
+                });
             #endregion User
             //------
             #region TimeSheet

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ipSu0TynoqnNqK8tI5dFYa6OYqRZkXOtQ5js3LeyRTvvt9cCnELBuPJFr5BRH/J+3XSIknBgVcoK7xDSoi1qGg==",
+  "dgSpecHash": "GD2aQPuSgv8HYA3Db1dJrHb5utjYnb5SWfluHZxFGl8Q1swLsKOJqyXvyzkYiiFjjXdnwx/TvzH95YSuf8Hz8Q==",
   "success": true,
-  "projectFilePath": "D:\\developer\\C#_dotnet\\API\\timekeepapi\\TimekeeperAPI.Common\\TimekeeperAPI.Common.csproj",
+  "projectFilePath": "D:\\developer\\C#_dotnet\\Projects_DotNet\\TimeKeepAPI\\TimekeeperAPI.Common\\TimekeeperAPI.Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vanho\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\vanho\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

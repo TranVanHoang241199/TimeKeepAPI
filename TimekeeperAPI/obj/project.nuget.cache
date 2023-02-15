@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YcRXKesclQ+RSCno83ftmtyxs/72K0DC+b63qyPPBgRG10EHMxc0fF/F+ps0syzWSTB57GVXOMx0HFzlulQ8lA==",
+  "dgSpecHash": "TzEuUagk4c0iwNzldnJom3vLz3W743AW43TWdWzbFpkCcit9IlcISsPnNAxpD5S8jeW3Ug3WWsaqe/8PjW2ybg==",
   "success": true,
-  "projectFilePath": "D:\\developer\\C#_dotnet\\API\\timekeepapi\\TimekeeperAPI\\TimekeeperAPI.csproj",
+  "projectFilePath": "D:\\developer\\C#_dotnet\\Projects_DotNet\\TimeKeepAPI\\TimekeeperAPI\\TimekeeperAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vanho\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\vanho\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

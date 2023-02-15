@@ -58,3 +58,13 @@ D:\developer\C#_dotnet\API\timekeepapi\TimekeeperAPI.Data\obj\Debug\netcoreapp3.
 D:\developer\C#_dotnet\API\timekeepapi\TimekeeperAPI.Data\obj\Debug\netcoreapp3.1\TimekeeperAPI.Data.csproj.CoreCompileInputs.cache
 D:\developer\C#_dotnet\API\timekeepapi\TimekeeperAPI.Data\obj\Debug\netcoreapp3.1\TimekeeperAPI.Data.dll
 D:\developer\C#_dotnet\API\timekeepapi\TimekeeperAPI.Data\obj\Debug\netcoreapp3.1\TimekeeperAPI.Data.pdb
+D:\developer\C#_dotnet\Projects_DotNet\TimeKeepAPI\TimekeeperAPI.Data\bin\Debug\netcoreapp3.1\TimekeeperAPI.Data.deps.json
+D:\developer\C#_dotnet\Projects_DotNet\TimeKeepAPI\TimekeeperAPI.Data\bin\Debug\netcoreapp3.1\TimekeeperAPI.Data.dll
+D:\developer\C#_dotnet\Projects_DotNet\TimeKeepAPI\TimekeeperAPI.Data\bin\Debug\netcoreapp3.1\TimekeeperAPI.Data.pdb
+D:\developer\C#_dotnet\Projects_DotNet\TimeKeepAPI\TimekeeperAPI.Data\obj\Debug\netcoreapp3.1\TimekeeperAPI.Data.csproj.AssemblyReference.cache
+D:\developer\C#_dotnet\Projects_DotNet\TimeKeepAPI\TimekeeperAPI.Data\obj\Debug\netcoreapp3.1\TimekeeperAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\developer\C#_dotnet\Projects_DotNet\TimeKeepAPI\TimekeeperAPI.Data\obj\Debug\netcoreapp3.1\TimekeeperAPI.Data.AssemblyInfoInputs.cache
+D:\developer\C#_dotnet\Projects_DotNet\TimeKeepAPI\TimekeeperAPI.Data\obj\Debug\netcoreapp3.1\TimekeeperAPI.Data.AssemblyInfo.cs
+D:\developer\C#_dotnet\Projects_DotNet\TimeKeepAPI\TimekeeperAPI.Data\obj\Debug\netcoreapp3.1\TimekeeperAPI.Data.csproj.CoreCompileInputs.cache
+D:\developer\C#_dotnet\Projects_DotNet\TimeKeepAPI\TimekeeperAPI.Data\obj\Debug\netcoreapp3.1\TimekeeperAPI.Data.dll
+D:\developer\C#_dotnet\Projects_DotNet\TimeKeepAPI\TimekeeperAPI.Data\obj\Debug\netcoreapp3.1\TimekeeperAPI.Data.pdb
