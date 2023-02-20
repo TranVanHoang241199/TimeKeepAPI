@@ -64,7 +64,9 @@ namespace TimekeeperAPI.Controllers.User
         [ProducesResponseType(typeof(Response), StatusCodes.Status200OK)]
         public async Task<IActionResult> CreateUser([FromBody] UserCreateUpdateModel model)
         {
-            return Helper.TransformData(await _userHandler.CreateUser(model));
+            var result = await _userHandler.CreateUser(model);
+
+            return Helper.TransformData(result);
         }
 
         /// <summary>

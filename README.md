@@ -18,11 +18,11 @@ trợ cho việc quản lý nhân viên.
 - cấu hình lại file appsettings.json 
 - chỉnh lại 
   "ConnectionStrings": {
-    "DefaultConnection": "UserID=postgres;Password=123;Host=localhost;Port=5432;Database=TimeKeeper_db;Pooling = true;"
+    "DefaultConnection": "UserID=postgres;Password=HoangTV;Host=localhost;Port=5432;Database=TimeKeeper_db;Pooling=true;"
   },
 
 - Mở Package Manager consoler > nhập: update-database
-- lưu ý nếu xóa file Migrations thì chạy dòng lệnh: add-migration intial 
+- lưu ý nếu xóa file Migrations thì chạy dòng lệnh: add-migration initail 
 
 
 ### CÁC ƯU ĐIỂM CỦA DỰ ÁN

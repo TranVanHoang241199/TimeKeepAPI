@@ -63,7 +63,9 @@ namespace TimekeeperAPI.Controllers.User
         [ProducesResponseType(typeof(Response), StatusCodes.Status200OK)]
         public async Task<IActionResult> CheckIn(Guid id, [FromBody] IEnumerable<TaskCreateModel> model)
         {
-            return Helper.TransformData(await _userHandler.CheckIn(id, model));
+            var result = await _userHandler.CheckIn(id, model);
+
+            return Helper.TransformData(result);
         }
 
         /// <summary>
@@ -76,9 +78,9 @@ namespace TimekeeperAPI.Controllers.User
         [ProducesResponseType(typeof(Response), StatusCodes.Status200OK)]
         public async Task<IActionResult> CheckOut(Guid id, [FromBody] IEnumerable<TaskUpdateModel> model)
         {
-            var searchResults = await _userHandler.CheckOut(id, model);
+            var result = await _userHandler.CheckOut(id, model);
 
-            return Helper.TransformData(searchResults);
+            return Helper.TransformData(result);
         }
 
         /// <summary>

@@ -85,7 +85,7 @@ namespace TimekeeperAPI.Business.Services.User
 
                 var contactToReturn = _mapper.Map<tk_User, UserViewModel>(userToGet);
 
-                return new ResponseObject<UserViewModel>(contactToReturn);
+                return new ResponseObject<UserViewModel>(contactToReturn, "get success");
             }
             catch (Exception ex)
             {
@@ -413,7 +413,7 @@ namespace TimekeeperAPI.Business.Services.User
                 var status = await _context.SaveChangesAsync();
 
                 if (status <= 0)
-                    return new ResponseError(HttpStatusCode.NotFound, "update failed.");
+                    return new ResponseError(HttpStatusCode.NotFound, "delete Save failed.");
 
                 return new ResponseDelete(HttpStatusCode.OK, "successful delete.", id, userToDelete.Name);
             }
